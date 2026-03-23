@@ -69,9 +69,9 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsalarzare&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gsalazare&show_icons=true&theme=tokyonight" alt="Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsalarzare&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsalazare&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
